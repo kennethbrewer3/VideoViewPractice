@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VideoViewPractice</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="video_url">https://archive.org/download/ksnn_compilation_master_the_internet/ksnn_compilation_master_the_internet_512kb.mp4</string>
+    <string name="video_url2">http://www.pocketjourney.com/downloads/pj/video/famous.3gp</string>
+</resources>
